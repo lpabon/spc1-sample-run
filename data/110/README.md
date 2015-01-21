@@ -3,6 +3,10 @@
 
 ## Total
 
+### Latency
+
+![total_latency](pblio_total_latency.png)
+
 ### IOPS
 
 ![total_iops](pblio_iops.png)
@@ -23,7 +27,7 @@
 
 ![total_write_ios](pblio_total_write_ios.png)
 
-* Total Write Latnecy
+* Total Write Latency
 
 ![total_write_latency](pblio_total_write_latency.png)
 
